@@ -22,7 +22,7 @@ Home
 
 - Diego Jiménez Alvarado
 
-- Daniel Quesada Sandí
+- Daniel Torres Sánchez
 
 
 **Profesor:** Johnny Villalobos Murillo
